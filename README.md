@@ -7,7 +7,7 @@ The project codename is Project Homunculus(Project file name).
 
 Target Platform: Windows, Linux, Android(Planned)
 
-This was originally planned for my personal game development project since 2014 but I abandoned the project for 9 years because of some academic issues.
+This was originally planned for my personal game development project since 2014 but I abandoned the project for 9 years because of some academic issues like university admission.
 But Ludum Dare 54 gave me a reviving opportunity for this project.
 This is why I opt out Graphics Ratings in LD54 for this game - some image assets are pre-made one in late 2014.
 
