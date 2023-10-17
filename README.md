@@ -1,6 +1,6 @@
 # Metagirls - Jam Edition
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5(currently blueprints only but can be extended to VS2022 project).
 
 This is created for Ludum Dare 54 Jam entry.
 The project codename is Project Homunculus(Project file name).
