@@ -20,6 +20,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "MathExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/701b0cd6e50c4c4bba23962a287b66ac"
 		}
 	],
 	"TargetPlatforms": [
